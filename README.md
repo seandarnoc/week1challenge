@@ -57,15 +57,15 @@ SO THAT our own site is optimized for search engines
 ```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+THEN I find semantic HTML elements XXX
+WHEN I view the structure of the HTML elements XXX
+THEN I find that the elements follow a logical structure independent of styling and positioning done XXX
+WHEN I view the icon and image elements donexxx
+THEN I find accessible alt attributes  done xxx
+WHEN I view the heading attributes done XXXXX
+THEN they fall in sequential order done XXXXX
+WHEN I view the title element done  XXxXXX
+THEN I find a concise, descriptive title done XXXX
 ```
 
 ## Mock-Up
