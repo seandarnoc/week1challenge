@@ -13,7 +13,8 @@ WHEN I view the title element done
 THEN I find a concise, descriptive title done (completed)
 ```
 
-## Mock-Up
+## Git Pages URL
+https://seandarnoc.github.io/week1challenge/
 
 ## Image
 
